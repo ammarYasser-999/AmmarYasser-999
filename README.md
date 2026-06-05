@@ -4,7 +4,7 @@
 
 ## Welcome I'm Ammar Yasser 🤖
 
-**Machine Intelligence Student | Backend & Data Engineer**
+**Machine Intelligence Student | Backend & Ai Engineer**
 
 ---
 
