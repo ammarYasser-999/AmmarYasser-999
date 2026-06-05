@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarYasser-999&show_icons=true&theme=tokyonight&count_private=true" alt="Ammar's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammarYasser-999&theme=tokyonight" alt="Ammar's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarYasser-999&theme=tokyonight" alt="GitHub Streak" />
@@ -60,8 +60,6 @@
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=ammarYasser-999&color=blue&style=flat-square)
 
-*"Code is poetry written in logic."*
-</div>
 
 *"Code is poetry written in logic."*
 </div>
