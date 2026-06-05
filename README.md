@@ -4,7 +4,7 @@
 
 ## Welcome I'm Ammar Yasser 🤖
 
-**Machine Intelligence Student | Backend & Ai Engineer**
+**Machine Intelligence Student | Backend & AI Engineer**
 
 ---
 
@@ -20,15 +20,19 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <!-- Python -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <!-- Streamlit -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-  <!-- Java -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <!-- Linux -->
+  
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  
+  <!-- Frameworks & OS -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -41,6 +45,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarYasser-999&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -60,15 +65,5 @@
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=ammarYasser-999&color=blue&style=flat-square)
 
-
 *"Code is poetry written in logic."*
 </div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
